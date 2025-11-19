@@ -1,0 +1,11 @@
+[
+{"Name": "Пиво Рогань",
+"Alcohol": 6.5, 
+"Description": "Пити не можна!" },
+{"Name": "Горілка Absolute",
+"Alcohol": 40, 
+"Description": "" },
+{"Name": "Вино Pino Nuar",
+"Alcohol": 12.5, 
+"Description": "Червоне" }
+]
